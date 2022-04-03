@@ -10,11 +10,7 @@ Description: This application allows users to log in with their email address an
 - Users can also log out when they are finished posting their product. 
 
 
-Contributors:
-Cooper Smith
-Hannah Han
-Alex Chang
-Mariana Marques
+Contributors: Cooper Smith, Hannah Han, Alex Chang, Mariana Marques
 
 Screenshots:
 ![Homepage](images/Screen%20Shot%202022-03-30%20at%206.59.01%20PM.png)

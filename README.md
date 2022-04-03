@@ -1,6 +1,7 @@
 # Guitar_Shop_EcommerceWebsite
 
     Deployed Website (Heroku) : https://guitar-shop-group-project.herokuapp.com/
+    
     Description: This application allows users to log in with their email address and password and sell their guitars.
 
     Users can sign up on High Voltage with a username, email, and password.
